@@ -23,6 +23,12 @@ In this project, I created and configured:
 
 ---
 
+## 🌟 Architecture Diagram
+
+Below is the architecture diagram for this project:
+
+![AWS VPC Architecture Diagram](https://github.com/RajkumarManala1/aws-vpc-ec2-nat-demo/blob/main/architecture-diagram.png)
+
 ## 📂 Project Structure
 
 ```bash
